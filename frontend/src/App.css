@@ -1,0 +1,4 @@
+.placeholder::before {
+  content: attr(data-placeholder);
+  color: #999; /* Placeholder text color */
+}
